@@ -13,14 +13,14 @@ Inside the black CMD window, type the following command and press **Enter**:
 ```cmd
 ipconfig /all
 
-If you confirmed in Step 2 that your IP is stuck on 169.254.x.x, we need to reset it. Type these two commands inside the same CMD window one by one (press Enter after each):
+# If you confirmed in Step 2 that your IP is stuck on 169.254.x.x, we need to reset it. Type these two commands inside the same CMD window one by one (press Enter after each):
 
 ipconfig /release
 
-This command forces the computer to ask the network router for a brand new, working IP address:
+# This command forces the computer to ask the network router for a brand new, working IP address:
 
 ipconfig /renew
 
-Wait about 5-10 seconds. The text on the screen will update, and your IPv4 Address should now change to a proper corporate IP (like 10.x.x.x).
+# Wait about 5-10 seconds. The text on the screen will update, and your IPv4 Address should now change to a proper corporate IP (like 10.x.x.x).
 
 
