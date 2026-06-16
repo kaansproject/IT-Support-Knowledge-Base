@@ -1,17 +1,29 @@
-# My IT Support Notes & Fixes 🛠️
+# IT Support Knowledge Base
 
-This is my personal knowledge base where I keep track of IT support issues, network configurations, and quick fixes I've encountered during my studies, internships, and homelab setups. 
+This repository contains practical IT support documentation, troubleshooting guides, networking fundamentals, Windows administration concepts, and Microsoft 365 support procedures.
 
-Instead of searching the internet for the same problems again and again, I document them here so I can solve them faster next time.
+## Topics Covered
 
-# 📂 What's inside?
+- Networking Fundamentals
+- Windows Troubleshooting
+- Active Directory Basics
+- Microsoft 365 Support
+- Common IT Support Issues
+- Help Desk Procedures
 
-## Network & Connections
-*   [Basic Network Troubleshooting](./network/basic-troubleshooting.md) — How I diagnose connection drops step-by-step using CMD.
-*   [DNS & DHCP Fixes](./network/dns-dhcp-fixes.md) — Clearing bad DNS caches and fixing IP assignment issues.
+## Purpose
 
-### OS & Corporate Setup
-*   [Active Directory Domain Join Errors](./os/domain-join-fix.md) — Fixing common trust errors when joining a PC to a corporate domain.
+This project was created to document technical knowledge, support procedures, and troubleshooting workflows commonly used in IT Support and System Administration roles.
 
----
-*“I believe in myself and what I can achieve.”* — Back to my [Portfolio](https://kaansproject.github.io/my-portfolio/contact.html).
+## Technologies & Platforms
+
+- Windows 10/11
+- Windows Server
+- Active Directory
+- Microsoft 365
+- Azure
+- TCP/IP Networking
+
+## Author
+
+Created as part of my IT Support and Cloud Administration learning journey.
