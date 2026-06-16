@@ -1,28 +1,66 @@
-# IT Support Knowledge Base
+# IT Support & Cloud Knowledge Base
 
-This repository contains practical IT support documentation, troubleshooting guides, networking fundamentals, Windows administration concepts, and Microsoft 365 support procedures.
+This repository contains technical documentation, troubleshooting guides, networking fundamentals, Windows administration concepts, cloud computing notes, and hands-on learning materials.
 
 ## Topics Covered
 
-- Networking Fundamentals
-- Windows Troubleshooting
-- Active Directory Basics
-- Microsoft 365 Support
-- Common IT Support Issues
-- Help Desk Procedures
+### Networking
+
+* DNS Basics
+* DHCP Basics
+* TCP/IP Fundamentals
+* OSI Model
+* Common Network Ports
+* VPN Basics
+
+### Windows Administration
+
+* Windows Fundamentals
+* User Management
+* System Troubleshooting
+* Remote Desktop
+
+### Cloud Computing
+
+* Cloud Fundamentals
+* Azure Basics
+* AWS Fundamentals
+* Identity and Access Management (IAM)
+* Virtual Networking
+
+### Troubleshooting
+
+* Network Issues
+* User Login Problems
+* Microsoft 365 Issues
+* Connectivity Problems
 
 ## Purpose
 
-This project was created to document technical knowledge, support procedures, and troubleshooting workflows commonly used in IT Support and System Administration roles.
+This repository documents my learning journey toward IT Support, System Administration, and Cloud Administration roles.
+
+The goal is to build a structured knowledge base while developing practical troubleshooting and cloud computing skills.
 
 ## Technologies & Platforms
 
-- Windows 10/11
-- Windows Server
-- Active Directory
-- Microsoft 365
-- Azure
-- TCP/IP Networking
+* Windows 10/11
+* Windows Server
+* Active Directory
+* Microsoft 365
+* Azure
+* AWS
+* TCP/IP Networking
+* PowerShell
+* Linux
+
+## Current Focus
+
+* Networking Fundamentals
+* Linux Administration
+* Cloud Computing Fundamentals
+* AWS & Azure Services
+* Infrastructure and Security Concepts
+
 
 ## Author
 
