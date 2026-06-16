@@ -10,7 +10,6 @@ Before changing any network settings, you need to check the computer's local clo
 1. Click the Windows Start menu, type `cmd`.
 2. Right-click on **Command Prompt** and select **Run as Administrator**.
 3. Inside the black window, type this command to see if the PC can sync its clock with the network server, then press **Enter**:
-```cmd
-   net time /set /y
 
-   
+```cmd
+net time /set /y
