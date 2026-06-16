@@ -13,10 +13,10 @@ Inside the black CMD window, type the following command and press **Enter**:
 
 ```cmd
 
-ipconfig /all ```cmd
+ipconfig /all ```
 
 ```cmd
-ipconfig /release ```cmd
+ipconfig /release ```
 
 ipconfig /renew
 
