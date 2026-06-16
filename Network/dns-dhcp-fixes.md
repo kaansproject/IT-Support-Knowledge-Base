@@ -13,12 +13,14 @@ Inside the black CMD window, type the following command and press **Enter**:
 
 ```cmd
 
-ipconfig /all ```
+ipconfig /all 
 
 ```cmd
-ipconfig /release ```
+ipconfig /release 
 
+```cmd
 ipconfig /renew
 
+```cmd
 ipconfig /flushdns
 
